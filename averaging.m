@@ -17,8 +17,8 @@ try
     threshold = PARENT_staircaseMain(subNo, Pointers, Response, Prepair, Stimuli);
     %---------------------
     % call main experimental procedure  
-    PARENT_trialLoop(Pointers, Stimuli, Response, Prepair, threshold);       
-	%---------------------
+    PARENT_trialLoop(Pointers, Stimuli, Response, Prepair, threshold);
+    %---------------------
     % clean up:
     cleanup();
     %---------------------
