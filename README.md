@@ -24,7 +24,7 @@ Whilst this constraint means that important information may be excluded from the
 
 Many perceptual decision-making experiments force participants to listen or view stimuli with a fixed duration and then to respond during a determined response period. This method is problematic when collecting behaviorual data as it becomes impossible to dissociate decision processes from response processes and to know at what point in time participants would have gathered enough decision evidence before responding naturally. Hence, participants might make up their mind as to which category a stimulus belongs to well before they have perceived the entire stimulus and before the defined response period. The data, however, would not be able to show this.  
 
-'decisionExpt_averaging' addresses the above limitation. It investigates the effects of temporal variance on complex decision-making in a scenario in which participants control the stimulus duration. As a result the task is more representative of everyday decision-making than those that use a fixed response period and allows for the explicit analysis of the decision-making process.
+'decisionExpt_averaging' addresses the above limitation. It investigates the effects of temporal variance on complex decision-making in a scenario in which participants control the stimulus duration. As a result, the task is more representative of everyday decision-making than those that use a fixed response period and allows for the explicit analysis of the decision-making process.
 
 ## Questions being investigated:
 1. Does temporal variance in a sequnece of acoustic events affect response time distributions and error rates in a self-paced complex averaging task?
@@ -40,7 +40,7 @@ Importantly, this means that they are not required to listen to the entire seque
 
 The mean location of the underlying ILD distribution is manipulated throughout the experiment using the psychophysical method of constant stimuli. Some trials are therefore easy to classify (due to the mean of the distribution being far away from mid-point), whereas others are harder to classify (due to the mean of the distribution being close to mid-point). The timing of the sequence is also manipulated and can either form a periodic rhythm (3 Hz - 333 ms) or an irregular aperiodic rhythm.
 
-It is hypothesised based on previous findings (Greatrex, 2015; 2016) that periodicity will decrease the time it takes for participants to respond (and thus the amount of sampled decision-information required to reach a decision), but not necessarily increase the accuracy of the decision. All sounds are digitally generated in Matlab (The MathWorks) at a sampling rate of 48.8 kHz and should be presented over professional grade headphones in a sound attenuated recording booth. 
+It is hypothesised, based on previous findings (Greatrex, 2015; 2016), that periodicity will decrease the time it takes for participants to respond (and thus the amount of sampled decision-information required to reach a decision), but not necessarily increase the accuracy of the decision. All sounds are digitally generated in Matlab (The MathWorks) at a sampling rate of 48.8 kHz and should be presented over professional grade headphones in a sound attenuated recording booth. 
 
 ## References
 * [Brainard, D. H. (1997). The psychophysics toolbox. Spatial vision, 10, 433-436.](http://bbs.bioguider.com/images/upfile/2006-4/200641014348.pdf)
